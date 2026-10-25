@@ -217,7 +217,7 @@ El análisis permitió identificar diferencias en el gasto acumulado de los clie
 
 Los principales hallazgos son:
 
-Ana Perez es la clienta con mayor gasto registrado, con 37.000 unidades monetarias.
+Ana Perez es la clienta con mayor gasto registrado, con 51.000 unidades monetarias.
 Abril es el mes con mayor importe de ventas registradas, con 43.000.
 Mochila y Teclado presentan el menor volumen de unidades vendidas, con dos unidades cada uno.
 Todos los productos del catálogo tienen al menos una venta registrada.
