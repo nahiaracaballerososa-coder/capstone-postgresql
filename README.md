@@ -116,16 +116,8 @@ Los pedidos sin precio conocido se excluyeron del cálculo.
 
 Resultados obtenidos:
 
-Posición	Cliente	Gasto registrado
-1	Ana Perez	37.000
-2	Luis Gomez	30.000
-3	Juan Torres	20.000
-4	Maria Lopez	17.000
-5	Pedro Ruiz	15.000
-
-Interpretación de negocio
-
-Ana Perez es la clienta con mayor gasto acumulado en el conjunto de datos, seguida por Luis Gomez y Juan Torres.
+Posición	Cliente	Gasto registrado e interpretacion 
+Ana Perez presenta el mayor gasto acumulado, con 51.000 unidades monetarias, seguida por Pedro Ruiz, con 40.000, y Maria Lopez, con 33.000. 
 
 Estos resultados permiten identificar clientes de mayor valor para evaluar estrategias de fidelización, promociones personalizadas y acciones de retención.
 
